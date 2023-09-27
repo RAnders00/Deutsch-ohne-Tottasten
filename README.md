@@ -10,7 +10,7 @@ Ein Deutsches Tastaturlayout ohne Tottasten (Akzente müssen nur einmal gedrück
 
 ## Builds
 
-1. Laden Sie den [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx) herunter und installieren Sie diesen.
+1. Laden Sie den [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134) herunter und installieren Sie diesen.
 2. Wählen Sie **File** → **Load Source File...**
 3. Wählen Sie die Datei `deutsch.klc` aus.
 4. Nehmen Sie nun die gewünschten Änderungen mithilfe des Interfaces vor.
@@ -28,7 +28,7 @@ A German keyboard layout without dead keys. Accents only have to be pressed once
 
 ## Builds
 
-1. Download and install the [Microsoft Keyboard Layout Creator](https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx).
+1. Download and install the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 2. Select **File** → **Load Source File...**
 3. Select the file `deutsch.klc`.
 4. Make the changes you want to apply by using the interface.
